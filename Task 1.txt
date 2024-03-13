@@ -1,0 +1,39 @@
+1. Write a blog on Difference between HTTP1.1 vs HTTP2 ?
+           
+      # HTTP/1.1 and HTTP/2 are versions of the Hypertext Transfer Protocol (HTTP), which is used for communication on the World Wide Web.
+
+      # On difference between as
+
+             * HTTP/1.1
+         + It’s a text-based protocol where requests and responses are sent in plain text.
+         + It allows only one request to be handled at a time per TCP connection.
+
+             * HTTP/2
+         + It’s a binary protocol, which makes it more efficient for computers to parse.
+         + It introduces multiplexing, allowing multiple requests and responses to be sent over a single TCP connection.
+
+
+2. Write a blog about objects and its internal representation in Javascript ?
+
+      # Objects are the backbone of JavaScript. An object is a collection of properties, and a property is an association between a name (or key) and a value.
+
+      # Understanding the internal representation of objects in JavaScript can help developers write more optimized code.
+
+
+3. codekata practice
+      
+      # Codekata practice enables 
+	  + To understand the question as input.
+	  + To solving the problems.
+	  + To write a code and get answer as output.
+
+
+4. Read about IP address, port, HTTP methods, MAC address
+
+      # Yes I read about IP address, Port, HTTP Methods & MAC Address.
+      # To Know,
+
+		+ IP ADDRESS - Network address for the computer.
+		+ PORT - a virtual point where network communication happens between two devices to send & receive data.
+		+ HTTP Methods - GET, PUT, POST, DELETE, PATCH.
+		+ MAC Address - Unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment.
